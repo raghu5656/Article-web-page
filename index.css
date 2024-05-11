@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  padding: 10px;
+  border-bottom: 2px dashed grey;
+}
+nav{
+  padding: 10px;
+  border-bottom: 2px dashed grey;
+
+}
+span{
+  margin-right: 20px; 
+}
+nav span:first-child{
+  border-bottom: 2px solid black;
+}
+.img{
+  float: right;
+  margin: 15px;
+}
+main section{
+  padding: 15px;
+}
+main p{
+  padding-bottom: 10px;
+}
